@@ -1,2 +1,2 @@
-# Leukemia-Classification-
-Blood cancer type classification using Machine learning
+# Leukemia-Classification
+Leukemia is cancer of blood-forming tissues, including bone marrow. Many types exist such as acute lymphoblastic leukemia, acutemyeloid leukemia, and chronic lymphocytic leukemia. The methods used to diagnose leukemia are time-consuming and complex. In this project, leukemia types are classified automatically using microscopic images of blood cells using Machine and deep learning techniques.
